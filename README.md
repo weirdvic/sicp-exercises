@@ -1,2 +1,4 @@
 # sicp-exercises
-Repository for solving exercises along with reading "Structure and interpretation of computer programs" (SICP)
+Репозиторий для решения упражнений из книги "Структура и интерпретация компьютерных программ"(SICP).
+
+Все примеры проверялись в DrRacket версии 7.7.
